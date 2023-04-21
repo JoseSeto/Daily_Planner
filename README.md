@@ -1,5 +1,6 @@
 Deployed Page:
 https://joseseto.github.io/Daily_Planner/ 
+
 Screenshot:
 
 
